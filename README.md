@@ -1,1 +1,1 @@
-# Projeto-que-mostra-areas-pares-e-impares
+# Projeto pedido na disciplina Linguagens e Técnicas de Programação, feito pelo NetBeans, utilizando a linguagem Java.
